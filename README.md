@@ -1,8 +1,4 @@
 # meghavi-patel.github.io
-<div align="center">
-  <img style="height:auto;" alt="meghavi-patel" src="https://avatars.githubusercontent.com/u/60173885?v=4" width="100" class="avatar avatar-user width-full border color-bg-default">
-</div>  
-  
 
 <div align="center">I'm Meghavi Patel, a fulltime full-stack developer 👨‍💻 working since 2018🚀</div>  
   
