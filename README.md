@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [REACT Travel App](https://github.com/Meghavi-Patel/react-website)  
   
 
-- 🌱 I’m currently learning full stack java developemnt  
+- 🌱 I’m currently learning Full-stack Java Development  
   
 
 - ❓ Ask me about anything related to the MERN stack and related technologies  
