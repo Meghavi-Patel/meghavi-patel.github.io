@@ -9,7 +9,7 @@
 - 🌱 I’m currently working as Full-stack Java Development  
   
 
-- ❓ Ask me about anything related to the MERN stack and related technologies  
+- ❓ Ask me about anything related to the Java, Springboot, Angular stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
