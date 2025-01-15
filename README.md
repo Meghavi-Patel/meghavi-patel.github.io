@@ -84,6 +84,16 @@ Experienced software developer with 6 years of expertise in user interaction, re
     </a>  
 </div>
 
+## Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
+
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 ## Github Stats
 
 <div align="center">
