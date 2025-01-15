@@ -102,7 +102,7 @@ Experienced software developer with 6 years of expertise in user interaction, re
 ## Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Meghavi-Patel&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="center" />
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Meghavi-Patel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 </div>
 
 <p>Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀</p>
