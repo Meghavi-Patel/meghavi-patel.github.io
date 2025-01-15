@@ -67,7 +67,7 @@ Experienced software developer with 6 years of expertise in user interaction, re
     <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://meghavi-patel.github.io/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
     <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://meghavi-patel.github.io/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
     <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://meghavi-patel.github.io/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://meghavi-patel.github.io/skills-assets/springio-icon.svg" alt="Spring" height="50" /><a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://meghavi-patel.github.io/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a> 
     <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://meghavi-patel.github.io/skills-assets/hibernate.svg" alt="Hibernate" height="50" /></a> 
 </div></td>
 
@@ -105,4 +105,4 @@ Experienced software developer with 6 years of expertise in user interaction, re
     <img src="https://github-readme-stats.vercel.app/api?username=Meghavi-Patel&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="center" />
 </div>
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+<p>Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀</p>
