@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Experienced software developer with 6 years of expertise in user interaction, requirements gathering, systems analysis, and full-cycle application development. Proficient in both front-end and back-end technologies, including Core Java, J2SE, J2EE, Spring (Boot, MVC, ORM), Hibernate, React, and Angular. Adept at designing multi-tier applications, creating RESTful web services, and managing databases (PostgreSQL, MySQL, MongoDB). Strong skills in building tools (Maven), CI/CD processes (Jenkins, SonarQube), version control (GIT), and deployment on Unix/Linux. Experienced with logging frameworks, IDEs (Eclipse, IntelliJ), and bug tracking (JIRA).
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Meghavi-Patel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
