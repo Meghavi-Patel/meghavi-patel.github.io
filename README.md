@@ -1,18 +1,3 @@
-<!--
-**Meghavi-Patel/meghavi-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Meghavi Patel! 👋
 
 Experienced software developer with 6 years of expertise in user interaction, requirements gathering, systems analysis, and full-cycle application development. Proficient in both front-end and back-end technologies, including Core Java, J2SE, J2EE, Spring (Boot, MVC, ORM), Hibernate, React, and Angular. Adept at designing multi-tier applications, creating RESTful web services, and managing databases (PostgreSQL, MySQL, MongoDB). Strong skills in building tools (Maven), CI/CD processes (Jenkins, SonarQube), version control (GIT), and deployment on Unix/Linux. Experienced with logging frameworks, IDEs (Eclipse, IntelliJ), and bug tracking (JIRA).
@@ -21,7 +6,7 @@ Experienced software developer with 6 years of expertise in user interaction, re
 
 - 🔭 I’m currently working on [Creavable Creations](https://github.com/Meghavi-Patel/react-website)
 - 🌱 I’m currently working as Full-stack Java Development
-- ❓ Ask me about anything related to the Java, Springboot, Angular stack and related technologies
+- ❓ Ask me about anything related to the Java, Springboot, Angular, MySQL, Hibernate stack and related technologies
 - ⚡ Fun fact: I use tabs over spaces
 
 ## My Articles
