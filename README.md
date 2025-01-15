@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Meghavi-Patel/meghavi-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
