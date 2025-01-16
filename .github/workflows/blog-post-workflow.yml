@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in meghavi-patel.github.io posts
-        uses: ../.github/workflows/blog-post-workflow@v1
+        uses: .meghavi-patel/meghavi-patel.github.io/.github/workflows/blog-post-workflow@v1
         with:
           feed_list: "https://meghavi-patel.github.io/posts/"
