@@ -1,0 +1,7 @@
+title: My Blog
+author: Meghavi Patel
+description: A blog about full stack development and other cool stuff.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
