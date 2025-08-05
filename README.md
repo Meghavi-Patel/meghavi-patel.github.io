@@ -4,7 +4,7 @@ Experienced software developer with 6 years of expertise in user interaction, re
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Creavable Creations](https://github.com/Meghavi-Patel/react-website)
+- 🔭 I’m currently working on [Creavable Creations](https://github.com/Meghavi-Patel/CraveableCreationsApp)
 - 🌱 I’m currently working as Full-stack Java Development
 - ❓ Ask me about anything related to the Java, Springboot, Angular, MySQL, Hibernate stack and related technologies
 - ⚡ Fun fact: I use tabs over spaces
