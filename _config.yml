@@ -5,3 +5,5 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
