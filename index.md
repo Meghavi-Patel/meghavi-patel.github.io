@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Hi, I'm Meghavi Patel! 👋
 
 Experienced software developer with 6 years of expertise in user interaction, requirements gathering, systems analysis, and full-cycle application development. Proficient in both front-end and back-end technologies, including Core Java, J2SE, J2EE, Spring (Boot, MVC, ORM), Hibernate, React, and Angular. Adept at designing multi-tier applications, creating RESTful web services, and managing databases (PostgreSQL, MySQL, MongoDB). Strong skills in building tools (Maven), CI/CD processes (Jenkins, SonarQube), version control (GIT), and deployment on Unix/Linux. Experienced with logging frameworks, IDEs (Eclipse, IntelliJ), and bug tracking (JIRA).
