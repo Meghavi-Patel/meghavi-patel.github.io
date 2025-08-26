@@ -30,12 +30,14 @@ jobs:
           ruby-version: "3.2"
           bundler-cache: true
 
-      - name: Install Jekyll and Bundler
+      - name: Install Dependencies
         run: |
-          gem install jekyll bundler
+          bundle install
+          # Ensure rake is installed at the correct version
+          bundle add rake --version ">= 13.0.6"
 
       - name: Build Jekyll Site
-        run: jekyll build
+        run: bundle exec jekyll build --trace --verbose
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
