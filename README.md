@@ -17,7 +17,7 @@ Experienced software developer with 6 years of expertise in user interaction, re
 
 <table><tr><td valign="top" width="33%">
 
-**Frontend**
+Frontend
 
 <div align="center">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://meghavi-patel.github.io/assets/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -36,7 +36,7 @@ Experienced software developer with 6 years of expertise in user interaction, re
 
 <td align="top" width="33%">
 
-**Backend**
+Backend
 
 <div align="center">  
     <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://meghavi-patel.github.io/assets/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -58,7 +58,7 @@ Experienced software developer with 6 years of expertise in user interaction, re
 
 <td valign="top" width="33%">
 
-**Other Technologies**
+Other Technologies
 
 <div align="center">  
     <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://meghavi-patel.github.io/assets/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
