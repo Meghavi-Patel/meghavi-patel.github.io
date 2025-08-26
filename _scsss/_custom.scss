@@ -1,7 +1,18 @@
-// _sass/_custom.scss
-$primary-color: #ff6600; // change main color
-$font-family-serif: "Georgia", serif;
+$primary-color: #ff6600;
 
 body {
   background-color: #f5f5f5;
+  font-family: "Helvetica", sans-serif;
+}
+
+a {
+  color: $primary-color;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1,
+h2,
+h3 {
+  color: darken($primary-color, 10%);
 }
