@@ -73,6 +73,13 @@ Other Technologies
 
 </td></tr></table>
 
+## My recent blog post
+
+{% for post in site.posts %}
+
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
+  {% endfor %}
+
 ## Connect with me
 
 <div align="center">
