@@ -5,7 +5,7 @@ import Experience from "@/components/Experience";
 import Skills from "@/components/Skills";
 import Services from "@/components/Services";
 import Portfolio from "@/components/Portfolio";
-import Archievements from "@/components/achievements";
+import Archievements from "@/components/Achievements";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 
