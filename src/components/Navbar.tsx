@@ -1,11 +1,13 @@
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Link as ScrollLink } from "react-scroll";
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
+  // Detect scroll for navbar background
   useEffect(() => {
     const handleScroll = () => {
       setIsScrolled(window.scrollY > 20);
@@ -15,14 +17,14 @@ const Navbar = () => {
   }, []);
 
   const navItems = [
-    { name: "Home", href: "#home" },
-    { name: "About", href: "#about" },
-    { name: "Experience", href: "#experience" },
-    { name: "Skills", href: "#skills" },
-    { name: "Services", href: "#services" },
-    { name: "Portfolio", href: "#portfolio" },
-    { name: "Achievements", href: "#achievements" },
-    { name: "Contact", href: "#contact" },
+    { name: "Home", to: "home" },
+    { name: "About", to: "about" },
+    { name: "Experience", to: "experience" },
+    { name: "Skills", to: "skills" },
+    { name: "Services", to: "services" },
+    { name: "Portfolio", to: "portfolio" },
+    { name: "Achievements", to: "achievements" },
+    { name: "Contact", to: "contact" },
   ];
 
   return (
@@ -35,21 +37,29 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16 md:h-20">
-          <a href="#home" className="text-2xl font-bold text-gradient">
+          <ScrollLink
+            to="home"
+            smooth={true}
+            duration={500}
+            className="text-2xl font-bold text-gradient cursor-pointer"
+          >
             Meghavi.
-          </a>
+          </ScrollLink>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-8">
             {navItems.map((item) => (
-              <a
+              <ScrollLink
                 key={item.name}
-                href={item.href}
-                className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors duration-300 relative group"
+                to={item.to}
+                smooth={true}
+                duration={500}
+                offset={-80} // adjust for fixed navbar height
+                className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors duration-300 relative group cursor-pointer"
               >
                 {item.name}
                 <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full" />
-              </a>
+              </ScrollLink>
             ))}
           </div>
 
@@ -69,14 +79,17 @@ const Navbar = () => {
           <div className="md:hidden pb-4 animate-fade-in">
             <div className="flex flex-col gap-4">
               {navItems.map((item) => (
-                <a
+                <ScrollLink
                   key={item.name}
-                  href={item.href}
-                  className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors duration-300 py-2"
+                  to={item.to}
+                  smooth={true}
+                  duration={500}
+                  offset={-80} // same offset
                   onClick={() => setIsMobileMenuOpen(false)}
+                  className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors duration-300 py-2 cursor-pointer"
                 >
                   {item.name}
-                </a>
+                </ScrollLink>
               ))}
             </div>
           </div>
