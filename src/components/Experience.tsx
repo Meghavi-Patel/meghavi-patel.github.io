@@ -115,19 +115,21 @@ const Experience = () => {
                       </span>
                     </div>
                   </div>
-                  {/*<div className="space-y-3">
-                    {exp.achievements.map((achievement, i) => (
-                      <div
-                        key={i}
-                        className="flex items-start gap-3 group/item"
-                      >
-                        <div className="w-2 h-2 rounded-full bg-gradient-to-br from-primary to-accent mt-2 flex-shrink-0 group-hover/item:scale-150 transition-transform" />
-                        <span className="text-foreground/80 leading-relaxed">
-                          {achievement}
-                        </span>
-                      </div>
-                    ))}
-                  </div>*/}
+                  {
+                    <div className="space-y-3">
+                      {exp.achievements.map((achievement, i) => (
+                        <div
+                          key={i}
+                          className="flex items-start gap-3 group/item"
+                        >
+                          <div className="w-2 h-2 rounded-full bg-gradient-to-br from-primary to-accent mt-2 flex-shrink-0 group-hover/item:scale-150 transition-transform" />
+                          <span className="text-foreground/80 leading-relaxed">
+                            {achievement}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  }
                 </div>
               </div>
             </div>
